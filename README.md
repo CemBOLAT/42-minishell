@@ -5,3 +5,7 @@
 # made by
 <a href="https://github.com/myagjz/myagjz">myagiz</a>
 <a href="https://github.com/CemBOLAT" >cbolat</a>
+
+
+## Excalidraw working counterclockwise way
+<a href="https://excalidraw.com/#json=u6tkV6c4viSZazqRWEZfL,nReavsFn2OkurYtsbWOB6A" >Excalidraw</a>
